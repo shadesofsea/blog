@@ -1,12 +1,7 @@
 title:       Type
-email:       ''
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         '' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+baseurl:     '/blog' # The subpath of your site, e.g. /blog
+url:         'https://shadesofsea.github.io/' # The base hostname & protocol for your site
 
 markdown:  kramdown
 permalink: pretty
