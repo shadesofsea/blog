@@ -1,6 +1,1 @@
-source 'https://rubygems.org'
-
-gem 'bundler'
-gem 'jekyll', '~> 4.0'
-gem 'jekyll-paginate'
-gem 'jekyll-tagging'
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
