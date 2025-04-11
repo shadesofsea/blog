@@ -1,6 +1,7 @@
 ---
-title: "东京居住日志"
-date: 2025-04-11
+layout: post
+title: Welcome to Jekyll!
+tags: [travel]
 ---
 
 记载一下3月在东京居住的生活
