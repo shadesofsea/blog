@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三月 - 东京居住日志"
+title: "三月东京居住日志"
 tags: [travel]
 ---
 
